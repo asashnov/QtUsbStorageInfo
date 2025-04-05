@@ -70,7 +70,7 @@ qmake && make
 
 ## License
 
-MIT - See LICENSE for details.
+MIT - See LICENSE for details.  
 Copyright (c) 2025 Alexander Sashnov
 
 ## Contributing
